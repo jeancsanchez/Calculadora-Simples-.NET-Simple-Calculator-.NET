@@ -1,0 +1,9 @@
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.exe.config
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.exe
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.pdb
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.csprojResolveAssemblyReference.cache
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.Form1.resources
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.Properties.Resources.resources
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.csproj.GenerateResource.Cache
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.exe
+c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.pdb
