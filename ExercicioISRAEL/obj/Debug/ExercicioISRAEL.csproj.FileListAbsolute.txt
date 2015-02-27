@@ -7,3 +7,12 @@ c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioIS
 c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.csproj.GenerateResource.Cache
 c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.exe
 c:\users\jcnot\documents\visual studio 2013\Projects\ExercicioISRAEL\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.pdb
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.exe.config
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.exe
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.pdb
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.exe
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\bin\Debug\ExercicioISRAEL.pdb
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.csprojResolveAssemblyReference.cache
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.Form1.resources
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.Properties.Resources.resources
+C:\Users\JCNOT\Documents\GitHub\Simple-Calculator-in-C-\ExercicioISRAEL\obj\Debug\ExercicioISRAEL.csproj.GenerateResource.Cache

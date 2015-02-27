@@ -75,6 +75,27 @@ namespace ExercicioISRAEL
             result = num1 * num2;
             lblResult.Text = Convert.ToString(result);
         }
+
+        private void txtNum1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar !=8)
+            {
+                MessageBox.Show("Somente números!");
+                e.Handled = true;
+            }
+        }
+
+        private void txtNum2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(!char.IsDigit(e.KeyChar) && e.KeyChar != 8)
+            {
+                MessageBox.Show("Somente números!");
+                e.Handled = true;
+            }
+        }
+        
         
     }
 }

@@ -47,6 +47,7 @@
             this.txtNum1.Name = "txtNum1";
             this.txtNum1.Size = new System.Drawing.Size(70, 20);
             this.txtNum1.TabIndex = 0;
+            this.txtNum1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNum1_KeyPress);
             // 
             // txtNum2
             // 
@@ -55,6 +56,7 @@
             this.txtNum2.Name = "txtNum2";
             this.txtNum2.Size = new System.Drawing.Size(67, 20);
             this.txtNum2.TabIndex = 1;
+            this.txtNum2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNum2_KeyPress);
             // 
             // btSoma
             // 
